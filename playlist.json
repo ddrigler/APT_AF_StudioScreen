@@ -1,8 +1,12 @@
 {
-  "version": "member-001",
-  "defaultDuration": 12,
+  "version": "studio-001",
+  "intervalSeconds": 15,
   "slides": [
-    { "type": "image", "src": "assets/AlloyPT.jpg", "duration": 10 },
-    { "type": "image", "src": "assets/MemberHike.jpg", "duration": 12 }
+    "assets/AlloyPT.jpg",
+    "assets/MM_25_pg1.jpg",
+    "assets/MM_25_pg2.jpg",
+    "assets/MemberHike.jpg",
+    "assets/MemberPhotos.jpg",
+    "assets/MM_50_pg1.jpg"
   ]
 }
