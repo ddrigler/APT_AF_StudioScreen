@@ -2,17 +2,14 @@
   "version": "studio-001",
   "intervalSeconds": 15,
   "slides": [
-    "assets/jesse.jpg",
     "assets/AlloyPT.jpg",
     "assets/MemberPhotos_pg2.jpg",
     "assets/MM_25_pg1.jpg",
-    "assets/MM_25_pg2.jpg",
     "assets/Bridge.jpg",
     "assets/MemberPhotos.jpg",
     "assets/MM_50_pg1.jpg",
     "assets/MM_50_pg2.jpg",
     "assets/S2S.jpg",
-    "assets/MM_75_pg1.jpg",
     "assets/MM_100_pg1.jpg"
   ]
 }
